@@ -1,3 +1,18 @@
+- [Use SSH Authentication with a Repo on GitHub](#use-ssh-authentication-with-a-repo-on-github)
+  - [Introduction](#introduction)
+  - [Prerequisites](#prerequisites)
+  - [Steps to Set Up SSH Authentication](#steps-to-set-up-ssh-authentication)
+    - [2. Generate SSH Keys](#2-generate-ssh-keys)
+    - [3. Add the SSH Key to the SSH Agent](#3-add-the-ssh-key-to-the-ssh-agent)
+    - [4. Test SSH Connection to GitHub](#4-test-ssh-connection-to-github)
+    - [5. Configure GitHub Repository with SSH](#5-configure-github-repository-with-ssh)
+    - [Createing Repository in Github account](#createing-repository-in-github-account)
+- [2. Connect Local Repository to GitHub Using SSH](#2-connect-local-repository-to-github-using-ssh)
+  - [7. Verify and Push Code](#7-verify-and-push-code)
+    - [Conclusion](#conclusion)
+    - [7. Troubleshooting](#7-troubleshooting)
+  - [Conclusion](#conclusion-1)
+
 # Use SSH Authentication with a Repo on GitHub
 
 ## Introduction
